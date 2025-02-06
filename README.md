@@ -19,7 +19,7 @@
 
 <div align="center">
 <p>Мои контакты:</p>
-  <a href="https://t.me/vova_m0" target="_blank">
+  <a href="https://t.me/VMayevskiy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
